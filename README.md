@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently studying Software Engineering at the University of Stuttgart
+I'm currently studying Software Engineering at the University of Stuttgart\
 🌱 I’m currently learning mor about Java, Kotlin, Android Devekopment(more on the side) and very little of Rust and C++
 <!--
 **acceushd/acceushd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
