@@ -1,6 +1,7 @@
-## Hi there 👋
-I'm currently studying Software Engineering at the University of Stuttgart\
-🌱 I’m currently learning more about Java, Kotlin, Android Development(more on the side) and very little of Rust and C++
+## Hi there! 👋
+I’m studying Computer Science at the Stuttgart University of Applied Sciences, while learning more Java, Rust, and C++ on my own.\
+I’m also diving deeper into Docker, Kubernetes, and the underlying technologies that power modern infrastructure.
+
 <!--
 **acceushd/acceushd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
