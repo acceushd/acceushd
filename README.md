@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I’m studying Computer Science at the Stuttgart University of Applied Sciences, while learning more Java, Rust, and C++ on my own.\
+I’m studying Computer Science at the Stuttgart University of Applied Sciences, while learning more Java and Rust on my own.\
 I’m also diving deeper into Docker, Kubernetes, and the underlying technologies that power modern infrastructure.
 
 <!--
